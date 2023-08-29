@@ -4,5 +4,7 @@ this is my first repo for facebook  app
 developer : Arpit jain
 <br>
 dead line for the submition : 31st augy=ust 2023
-<nr>
+<br>
 project title:  reels filters
+<br>
+project cost : 2500$
